@@ -8,3 +8,8 @@ Atualmente, o projeto está organizado por aulas práticas:
 *  **Aula 01:** Introdução e configurações iniciais.
 *  **Aula 02:** Variáveis (tipos primitivos e exercícios práticos).
 *  **Aula 03: **
+
+# Tecnologias
+* Java
+* Intellij IDEA
+* Git & GitHub

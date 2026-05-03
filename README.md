@@ -7,7 +7,7 @@ Repositório criado para organizar e registrar minha evolução técnica no apre
 Atualmente, o projeto está organizado por aulas práticas:
 *  **Aula 01:** Introdução e configurações iniciais.
 *  **Aula 02:** Variáveis (tipos primitivos e exercícios práticos).
-*  **Aula 03: **
+*  **Aula 03:** Operadores ( aritméticos, comparação e lógicos) e desafios práticos
 
 # Tecnologias
 * Java

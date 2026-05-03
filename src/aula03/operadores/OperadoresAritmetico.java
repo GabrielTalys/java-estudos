@@ -1,6 +1,6 @@
 package aula03.operadores;
 
-public class OperadoresAritimetico {
+public class OperadoresAritmetico {
     /*
     + - Soma
     - - Subtração
